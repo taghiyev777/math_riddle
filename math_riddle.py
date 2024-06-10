@@ -9,7 +9,7 @@ def answer_riddle(question, answer):
         'I am an odd number. Take away one letter and I become even. What number am I?': 'seven',
         'What comes once in a minute, twice in a moment, but never in a thousand years?': 'm',
         'A man has 9 children. Half of them are boys. How many boys he has?': '9',
-        'I am a three-digit number. My tens digit is five more than my units digit. My hundreds digit is eight less than my tens digit. What number am I?': '195',
+        'I am a three-digit number. My tens digit is five more than my units digit. My hundreds digit is eight less than my tens digit. What number am I?': '194',
         'What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 10?': '2520',
         'Two trains are on the same track heading towards each other at a speed of 30 mph each. If a bird flies at 60 mph from one train to the other and back again until the trains collide, how far will the bird have flown if the trains start 60 miles apart?': '60 miles'
     }
